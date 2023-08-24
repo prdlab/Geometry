@@ -2,8 +2,8 @@
 
 ## Download
 1. [Unity](https://unity.com/pricing#plans-student-and-hobbyist)
-2. [UXF](https://github.com/prdlab/Geometry/blob/main/Downloads/UXF.v2.4.3.unitypackage)
-https://github.com/prdlab/Geometry/blob/main/Downloads/UXF.v2.4.3.unitypackage
+2. [UXF](https://github.com/immersivecognition/unity-experiment-framework/releases)
+    - Most recent version preferably
 
 ## Setup 
 
