@@ -18,9 +18,9 @@
 8. The inspector will open up on the right side, navigate to the third tab "Standalone Input Module".
 10. There will be a prompt to replace the input, replace it.
 11. At the top there will be a play, pause, and skip sign grouped together.
-12. To play, press the play button
-13. To pause within the task, press pause.
-14. To end the task, press the play button again.
+ - To play, press the play button
+ - To pause within the task, press pause.
+ - To end the task, press the play button again.
     
 #### Examples will ask for a directory for data output, within the project folder, create a folder named "DataOutput" 
     
