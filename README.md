@@ -5,6 +5,7 @@
 1. [Unity](https://unity.com/pricing#plans-student-and-hobbyist)
 2. [UXF](https://github.com/immersivecognition/unity-experiment-framework/releases)
     - Most recent version preferably
+
 ## Setup 
 ### UXF 
 1. Open a project, click the edit tab at the top, and scroll down to import package. Select the file downloaded from the UXF link.
@@ -26,9 +27,9 @@
     
 ## Basic UI Tutorial
 1. [Unity Learn](https://learn.unity.com)
-2. [Change skybox color](https://discussions.unity.com/t/unity-5-how-to-change-skybox-color/134411)
-3. [How to make scene object glow](https://sharpcoderblog.com/blog/unity-3d-glowing-object-tutorial)
+2. [Change Skybox Color](https://discussions.unity.com/t/unity-5-how-to-change-skybox-color/134411)
+3. [How to Make Scene Object Glow](https://sharpcoderblog.com/blog/unity-3d-glowing-object-tutorial)
    
 ## UXF Tutorial 
-1. [Build an experiment](https://immersivecognition.com/uxf-tutorial/)
+1. [Build an Experiment](https://immersivecognition.com/uxf-tutorial/)
 
