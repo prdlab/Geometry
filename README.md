@@ -12,7 +12,7 @@
 3. To test if it works navigate to the assets > UXF > Examples > load up any unity example projects.
 #### UXF Wizard
 5. UXF wizard, for clicking use the Select Web browser platform
-    - Can close immediately after, to re-access in the top tabs go to UXF > Show setup Wizard 
+ - Can close immediately after, to re-access in the top tabs go to UXF > Show setup Wizard 
 #### Clicking Functionality        
 7. To enable clicking functionality go to the hierarchy tab and click on EventSystems.
 8. The inspector will open up on the right side, navigate to the third tab "Standalone Input Module".
